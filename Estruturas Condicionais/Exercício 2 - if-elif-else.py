@@ -17,4 +17,4 @@ elif idade > 12 and idade <= 18:
 elif idade > 18 and idade <= 130:
   print(f'O Adulto tem {idade} Anos')
 elif idade < 0  or idade > 130:
-  print(f'Idade inválida')
+  print('Idade inválida')
